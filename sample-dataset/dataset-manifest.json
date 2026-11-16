@@ -1,0 +1,425 @@
+{
+  "coverage": {
+    "dimensions": [
+      [
+        144,
+        192
+      ],
+      [
+        160,
+        160
+      ],
+      [
+        176,
+        176
+      ],
+      [
+        192,
+        128
+      ],
+      [
+        200,
+        150
+      ]
+    ],
+    "exposure_keys": [
+      "sample-S01",
+      "sample-S02",
+      "sample-S03",
+      "sample-S04",
+      "sample-S05",
+      "sample-S06",
+      "sample-S07",
+      "sample-S08",
+      "sample-S09",
+      "sample-S10"
+    ],
+    "projections": [
+      "orthographic",
+      "perspective"
+    ],
+    "sampling": [
+      1,
+      2
+    ],
+    "seal_hashes": [
+      "0307a03261178930d9d4f4a186d1802675aa6a266b167a136af9769fa621a1fc",
+      "21b244d19ffc49e95b2d968970bc84e4639fe8cfd6d7ad01aed127e99ad21a9b",
+      "34857bae3be4d681d63a5d5b622506f83834b88146b10e15fe8566728acd0e35",
+      "4478b84dab01b2705693bc0aebc062364a482e4dee73c93f9384dde0c22d0984",
+      "6f5a2611306d2df4d6993f33e6cfc865bc50c36670d036dfd1db9b26370530d1",
+      "71e7524720a350106a7b03ed829e0269fd6c6dce4f7b8552769a634257e08450",
+      "999b966dbd466119e43aa3c02ac4367d6e9a1ed4dc4f0c0269b5bbb8c49b0125",
+      "9f4dfe09a8a8d08fb4dc338bf9abc8900fd2e9cc87ec3a9f0d4c0a8d89a5a142",
+      "f6bd7ab420951a9847c4a6e6c673cebb88acd5b14f73af7ccacd24fc0f234e3d",
+      "f82dd2b868a06c0276d754c416a240c4abd24fb48fa43d6cd2142bdebf64ac32"
+    ]
+  },
+  "sample_count": 10,
+  "samples": [
+    {
+      "cross_channel_check": {
+        "all_visible_placements_mapped": true,
+        "background_depth": "positive_infinity",
+        "background_pixels": 19873,
+        "byte_order": "little",
+        "covered_pixels": 5727,
+        "depth_units": "camera_forward_distance",
+        "finite_depth_range": [
+          5.654960632324219,
+          9.03825855255127
+        ],
+        "height": 160,
+        "object_ids_seen": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "objects_total": 5,
+        "width": 160
+      },
+      "directory": "S01",
+      "exposure_key": "sample-S01",
+      "id": "S01",
+      "plate_id": "plate_8929811d43434a4c8e5c0a52966910c8",
+      "projection": "perspective",
+      "request": {
+        "height": 160,
+        "samples": 1,
+        "width": 160
+      },
+      "seal_hash": "34857bae3be4d681d63a5d5b622506f83834b88146b10e15fe8566728acd0e35",
+      "spec_hash": "788c3131956f3106d7156ed765a05daa8423baccaea4dc7125cb076bb981f6be"
+    },
+    {
+      "cross_channel_check": {
+        "all_visible_placements_mapped": true,
+        "background_depth": "positive_infinity",
+        "background_pixels": 17692,
+        "byte_order": "little",
+        "covered_pixels": 7908,
+        "depth_units": "camera_forward_distance",
+        "finite_depth_range": [
+          5.6605353355407715,
+          9.043133735656738
+        ],
+        "height": 160,
+        "object_ids_seen": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "objects_total": 5,
+        "width": 160
+      },
+      "directory": "S02",
+      "exposure_key": "sample-S02",
+      "id": "S02",
+      "plate_id": "plate_9c62eec9275f4aab87e32466b9f747b3",
+      "projection": "orthographic",
+      "request": {
+        "height": 160,
+        "samples": 1,
+        "width": 160
+      },
+      "seal_hash": "f6bd7ab420951a9847c4a6e6c673cebb88acd5b14f73af7ccacd24fc0f234e3d",
+      "spec_hash": "901a5b11749e93406117dc55fb282f971691a59b8913bc68b804d8f004f0bbeb"
+    },
+    {
+      "cross_channel_check": {
+        "all_visible_placements_mapped": true,
+        "background_depth": "positive_infinity",
+        "background_pixels": 19757,
+        "byte_order": "little",
+        "covered_pixels": 5843,
+        "depth_units": "camera_forward_distance",
+        "finite_depth_range": [
+          5.661017417907715,
+          9.022682189941406
+        ],
+        "height": 160,
+        "object_ids_seen": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "objects_total": 5,
+        "width": 160
+      },
+      "directory": "S03",
+      "exposure_key": "sample-S03",
+      "id": "S03",
+      "plate_id": "plate_2beccc6d66294e70bf95976ea911245f",
+      "projection": "perspective",
+      "request": {
+        "height": 160,
+        "samples": 2,
+        "width": 160
+      },
+      "seal_hash": "9f4dfe09a8a8d08fb4dc338bf9abc8900fd2e9cc87ec3a9f0d4c0a8d89a5a142",
+      "spec_hash": "6130701da014556c654043147fb39cab111d0b080ef63fdbf17d934c85eaa042"
+    },
+    {
+      "cross_channel_check": {
+        "all_visible_placements_mapped": true,
+        "background_depth": "positive_infinity",
+        "background_pixels": 12622,
+        "byte_order": "little",
+        "covered_pixels": 11954,
+        "depth_units": "camera_forward_distance",
+        "finite_depth_range": [
+          3.9162535667419434,
+          6.140410900115967
+        ],
+        "height": 128,
+        "object_ids_seen": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "objects_total": 5,
+        "width": 192
+      },
+      "directory": "S04",
+      "exposure_key": "sample-S04",
+      "id": "S04",
+      "plate_id": "plate_f6779b6ad0e042b293b38c2b8aabb3c5",
+      "projection": "perspective",
+      "request": {
+        "height": 128,
+        "samples": 2,
+        "width": 192
+      },
+      "seal_hash": "6f5a2611306d2df4d6993f33e6cfc865bc50c36670d036dfd1db9b26370530d1",
+      "spec_hash": "909950d64e2c3ac82a9fd87be0ccc9e00a795cf0e8f4e754ec652cf5ff4c1272"
+    },
+    {
+      "cross_channel_check": {
+        "all_visible_placements_mapped": true,
+        "background_depth": "positive_infinity",
+        "background_pixels": 23085,
+        "byte_order": "little",
+        "covered_pixels": 4563,
+        "depth_units": "camera_forward_distance",
+        "finite_depth_range": [
+          4.145114898681641,
+          5.834011554718018
+        ],
+        "height": 192,
+        "object_ids_seen": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "objects_total": 6,
+        "width": 144
+      },
+      "directory": "S05",
+      "exposure_key": "sample-S05",
+      "id": "S05",
+      "plate_id": "plate_3038fa6d26e54bce93abff5e9bdeb35e",
+      "projection": "perspective",
+      "request": {
+        "height": 192,
+        "samples": 1,
+        "width": 144
+      },
+      "seal_hash": "4478b84dab01b2705693bc0aebc062364a482e4dee73c93f9384dde0c22d0984",
+      "spec_hash": "5451ad01bd57fb754f027821ddf5cdc888892da3a3959bf9267e5db21764bd19"
+    },
+    {
+      "cross_channel_check": {
+        "all_visible_placements_mapped": true,
+        "background_depth": "positive_infinity",
+        "background_pixels": 22670,
+        "byte_order": "little",
+        "covered_pixels": 4978,
+        "depth_units": "camera_forward_distance",
+        "finite_depth_range": [
+          5.452107906341553,
+          6.6039581298828125
+        ],
+        "height": 192,
+        "object_ids_seen": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "objects_total": 6,
+        "width": 144
+      },
+      "directory": "S06",
+      "exposure_key": "sample-S06",
+      "id": "S06",
+      "plate_id": "plate_84aac5474f5744b68fab07f83bab5fde",
+      "projection": "orthographic",
+      "request": {
+        "height": 192,
+        "samples": 2,
+        "width": 144
+      },
+      "seal_hash": "21b244d19ffc49e95b2d968970bc84e4639fe8cfd6d7ad01aed127e99ad21a9b",
+      "spec_hash": "d0301c76f596793f26a23b9c063df5bbaa32254bd3a25be98b3f2e6ed7d5178b"
+    },
+    {
+      "cross_channel_check": {
+        "all_visible_placements_mapped": true,
+        "background_depth": "positive_infinity",
+        "background_pixels": 27389,
+        "byte_order": "little",
+        "covered_pixels": 2611,
+        "depth_units": "camera_forward_distance",
+        "finite_depth_range": [
+          5.583530902862549,
+          8.381501197814941
+        ],
+        "height": 150,
+        "object_ids_seen": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "objects_total": 5,
+        "width": 200
+      },
+      "directory": "S07",
+      "exposure_key": "sample-S07",
+      "id": "S07",
+      "plate_id": "plate_ff3a8e5df17d43659e6fd4b9493ff728",
+      "projection": "perspective",
+      "request": {
+        "height": 150,
+        "samples": 1,
+        "width": 200
+      },
+      "seal_hash": "999b966dbd466119e43aa3c02ac4367d6e9a1ed4dc4f0c0269b5bbb8c49b0125",
+      "spec_hash": "2646857af4dca741447aee8f8485d3948f9138e9428fe17f0eb2d7f900b8f2b0"
+    },
+    {
+      "cross_channel_check": {
+        "all_visible_placements_mapped": true,
+        "background_depth": "positive_infinity",
+        "background_pixels": 27300,
+        "byte_order": "little",
+        "covered_pixels": 2700,
+        "depth_units": "camera_forward_distance",
+        "finite_depth_range": [
+          5.583916187286377,
+          8.366118431091309
+        ],
+        "height": 150,
+        "object_ids_seen": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "objects_total": 5,
+        "width": 200
+      },
+      "directory": "S08",
+      "exposure_key": "sample-S08",
+      "id": "S08",
+      "plate_id": "plate_1d7f6da1471f4d12af3e0f5c436a05fc",
+      "projection": "perspective",
+      "request": {
+        "height": 150,
+        "samples": 2,
+        "width": 200
+      },
+      "seal_hash": "0307a03261178930d9d4f4a186d1802675aa6a266b167a136af9769fa621a1fc",
+      "spec_hash": "ede66a38268a636edd6a8284eb48932a8ffb7ee99f89d8f822350e0a274a44fb"
+    },
+    {
+      "cross_channel_check": {
+        "all_visible_placements_mapped": true,
+        "background_depth": "positive_infinity",
+        "background_pixels": 21356,
+        "byte_order": "little",
+        "covered_pixels": 9620,
+        "depth_units": "camera_forward_distance",
+        "finite_depth_range": [
+          4.546934127807617,
+          8.179292678833008
+        ],
+        "height": 176,
+        "object_ids_seen": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "objects_total": 6,
+        "width": 176
+      },
+      "directory": "S09",
+      "exposure_key": "sample-S09",
+      "id": "S09",
+      "plate_id": "plate_445746d0c5164c91a1c8160335df3f8b",
+      "projection": "perspective",
+      "request": {
+        "height": 176,
+        "samples": 1,
+        "width": 176
+      },
+      "seal_hash": "f82dd2b868a06c0276d754c416a240c4abd24fb48fa43d6cd2142bdebf64ac32",
+      "spec_hash": "ab897e03690cfa20c8e0b4c5edc42f52ee8547026f2b5b86daeb17caa96b9c6d"
+    },
+    {
+      "cross_channel_check": {
+        "all_visible_placements_mapped": true,
+        "background_depth": "positive_infinity",
+        "background_pixels": 21129,
+        "byte_order": "little",
+        "covered_pixels": 9847,
+        "depth_units": "camera_forward_distance",
+        "finite_depth_range": [
+          4.544818878173828,
+          8.182973861694336
+        ],
+        "height": 176,
+        "object_ids_seen": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "objects_total": 6,
+        "width": 176
+      },
+      "directory": "S10",
+      "exposure_key": "sample-S10",
+      "id": "S10",
+      "plate_id": "plate_ef4553591afc400897f0dfa3373bdf56",
+      "projection": "perspective",
+      "request": {
+        "height": 176,
+        "samples": 2,
+        "width": 176
+      },
+      "seal_hash": "71e7524720a350106a7b03ed829e0269fd6c6dce4f7b8552769a634257e08450",
+      "spec_hash": "57075ac06bfca9b11f9ce806a508b516569f45c3b6f7c72fdfd0913a6edcc72f"
+    }
+  ],
+  "spec_version": "samplekit-catalog-1"
+}

@@ -1,0 +1,176 @@
+{
+  "assembly_id": "assembly_6c8e7949478d4c89b09f16f7856a114d",
+  "assembly_revision": 2,
+  "bundle": {
+    "file": "plate-bundle.zip",
+    "sha256": "cc8e4d23a3656a43e5d5a9a204b05d0452b79feae8b70ee2b6d578a72b711278",
+    "size": 29955
+  },
+  "channels": {
+    "color.png": {
+      "sha256": "c0fb33375451c7c003ee3090e77ea76332c1b2921f44600b7f223660564a422e",
+      "size": 3022
+    },
+    "color.rgb": {
+      "sha256": "28ab7371549f7561085ebe54965ad40ca608d765e4e9d234b884268254bfa1bf",
+      "size": 76800
+    },
+    "depth.f32": {
+      "sha256": "b9d6807ad6e9975b666ac3da3415468458482a641608124e25f3b79c198510a3",
+      "size": 102400
+    },
+    "depth.png": {
+      "sha256": "f56157fc29af31cafca696ffc4f0c5fec6ff2f85535fd75e1d81939d1dc3a1d2",
+      "size": 1303
+    },
+    "object.png": {
+      "sha256": "c66931fd74f2cc51739a3e67d92063244c46b485d256842d3929177e40d28f14",
+      "size": 808
+    },
+    "object.u32": {
+      "sha256": "dd00a5845f076c79e62e1cc28c52478da137951b130d80cc6bf91f3af19604c8",
+      "size": 102400
+    }
+  },
+  "cross_channel_check": {
+    "all_visible_placements_mapped": true,
+    "background_depth": "positive_infinity",
+    "background_pixels": 19757,
+    "byte_order": "little",
+    "covered_pixels": 5843,
+    "depth_units": "camera_forward_distance",
+    "finite_depth_range": [
+      5.661017417907715,
+      9.022682189941406
+    ],
+    "height": 160,
+    "object_ids_seen": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "objects_total": 5,
+    "width": 160
+  },
+  "exposure_id": "exposure_b919f641d82841b18a0fc4293c93f6d4",
+  "exposure_key": "sample-S03",
+  "id": "S03",
+  "illumination": {
+    "ambient": 0.18,
+    "background": [
+      0.94,
+      0.95,
+      0.97
+    ],
+    "lights": [
+      {
+        "color": [
+          1,
+          0.97,
+          0.92
+        ],
+        "direction": [
+          3,
+          -4,
+          6
+        ],
+        "intensity": 0.85
+      },
+      {
+        "color": [
+          0.85,
+          0.9,
+          1
+        ],
+        "direction": [
+          -4,
+          2,
+          3
+        ],
+        "intensity": 0.35
+      }
+    ]
+  },
+  "lens": {
+    "eye": [
+      4.5,
+      -5.0,
+      3.6
+    ],
+    "fov": 45,
+    "projection": "perspective",
+    "target": [
+      0,
+      0,
+      0.15
+    ],
+    "up": [
+      0,
+      0,
+      1
+    ]
+  },
+  "objects": {
+    "1": {
+      "key": "bracket",
+      "mesh_id": "mesh_5b64c19f7f204ca58064cfa821e44e55",
+      "pigment_id": "pigment_0769f4a2f00d457e9187b07c43069b44"
+    },
+    "2": {
+      "key": "footpad",
+      "mesh_id": "mesh_2f6a86af6a9e4787b761513125fcdd77",
+      "pigment_id": "pigment_8dc643e2039b41b08aeadcae18415bd3"
+    },
+    "3": {
+      "key": "knob",
+      "mesh_id": "mesh_1d81369651e747d781cadeef54ced305",
+      "pigment_id": "pigment_cac7af813205452499a641d3e4601faa"
+    },
+    "4": {
+      "key": "post",
+      "mesh_id": "mesh_deaa4a02186745d1b7642e2667b42346",
+      "pigment_id": "pigment_193ec3274ae9485492ed519a45115efc"
+    },
+    "5": {
+      "key": "shaft",
+      "mesh_id": "mesh_26ae68e5f32c43e097a6c25e7e1842e9",
+      "pigment_id": "pigment_507cb4f54d5440779fbb3cd67ba2fc5c"
+    }
+  },
+  "plate_id": "plate_2beccc6d66294e70bf95976ea911245f",
+  "reader_summary": {
+    "background_pixels": 19757,
+    "covered_pixels": 5843,
+    "depth_units": "camera_forward_distance",
+    "finite_depth_range": [
+      5.661017417907715,
+      9.022682189941406
+    ],
+    "height": 160,
+    "object_id_scope": "local_to_this_plate",
+    "objects": 5,
+    "samples": 2,
+    "width": 160
+  },
+  "request": {
+    "height": 160,
+    "samples": 2,
+    "width": 160
+  },
+  "seal_hash": "9f4dfe09a8a8d08fb4dc338bf9abc8900fd2e9cc87ec3a9f0d4c0a8d89a5a142",
+  "seal_id": "seal_bfe1f8921a90490b8d756770af781520",
+  "spec_hash": "6130701da014556c654043147fb39cab111d0b080ef63fdbf17d934c85eaa042",
+  "spec_version": "samplekit-catalog-1",
+  "statistics": {
+    "background_depth": "positive_infinity",
+    "byte_order": "little",
+    "covered_pixels": 5843,
+    "depth_units": "camera_forward_distance",
+    "fragments": 43910,
+    "triangles": 188
+  },
+  "title": "角架立柱总成 · 透视主视角 · 2x 超采样",
+  "visual_hash": "12049deb99a158657477c84de7db31b32102ba08873aa086ef394d3bff36cdc4"
+}

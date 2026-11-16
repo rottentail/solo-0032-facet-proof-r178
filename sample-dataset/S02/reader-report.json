@@ -1,0 +1,175 @@
+{
+  "channels": {
+    "color.png": {
+      "sha256": "c58b30d18b6d67594b5d9402854eeec60dd61f22bbe63712c39ae03dd5365bb6",
+      "size": 1458
+    },
+    "color.rgb": {
+      "sha256": "f22fcefb6893181521507dc7bc8bf9bf26bf1953050c223ac60277ca632dec5e",
+      "size": 76800
+    },
+    "depth.f32": {
+      "sha256": "668fde67ca59bb201cb0b300a091eafa559b3dc8adb854a08bb70d0d03d48ec4",
+      "size": 102400
+    },
+    "depth.png": {
+      "sha256": "a8e3f254b7a47c31f648d2bd37259589a4f6539775f9c73de769133a39e31e51",
+      "size": 1465
+    },
+    "object.png": {
+      "sha256": "cd3105c64cc7218275f906dfc841685de1358057b2239924eb2823501c0d992f",
+      "size": 916
+    },
+    "object.u32": {
+      "sha256": "2303239ef563ab56b8e5adcf65a0a39c92120bb4caf82653fdb2ec8c71294ff6",
+      "size": 102400
+    }
+  },
+  "format": "facet-plate-1",
+  "picks": [
+    {
+      "depth": null,
+      "object": null,
+      "object_index": 0,
+      "seal_id": "seal_d7a245597e39490d91e859e880ed302d",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "depth": null,
+      "object": null,
+      "object_index": 0,
+      "seal_id": "seal_d7a245597e39490d91e859e880ed302d",
+      "x": 159,
+      "y": 0
+    },
+    {
+      "depth": 8.700814247131348,
+      "object": {
+        "key": "bracket",
+        "mesh_id": "mesh_5b64c19f7f204ca58064cfa821e44e55",
+        "pigment_id": "pigment_0769f4a2f00d457e9187b07c43069b44"
+      },
+      "object_index": 1,
+      "seal_id": "seal_d7a245597e39490d91e859e880ed302d",
+      "x": 66,
+      "y": 20
+    },
+    {
+      "depth": 6.5421462059021,
+      "object": {
+        "key": "post",
+        "mesh_id": "mesh_deaa4a02186745d1b7642e2667b42346",
+        "pigment_id": "pigment_193ec3274ae9485492ed519a45115efc"
+      },
+      "object_index": 4,
+      "seal_id": "seal_d7a245597e39490d91e859e880ed302d",
+      "x": 80,
+      "y": 80
+    },
+    {
+      "depth": null,
+      "object": null,
+      "object_index": 0,
+      "seal_id": "seal_d7a245597e39490d91e859e880ed302d",
+      "x": 159,
+      "y": 159
+    }
+  ],
+  "provenance": {
+    "assembly_id": "assembly_b4521c766f6946199c5c4156361ab851",
+    "assembly_revision": 2,
+    "exposure_id": "exposure_d000992100cd4be98487d38e6129c76b",
+    "frozen_resources": [
+      {
+        "key": "bracket",
+        "mesh_id": "mesh_5b64c19f7f204ca58064cfa821e44e55",
+        "mesh_revision": 1,
+        "pigment_id": "pigment_0769f4a2f00d457e9187b07c43069b44",
+        "pigment_revision": 1
+      },
+      {
+        "key": "footpad",
+        "mesh_id": "mesh_2f6a86af6a9e4787b761513125fcdd77",
+        "mesh_revision": 1,
+        "pigment_id": "pigment_8dc643e2039b41b08aeadcae18415bd3",
+        "pigment_revision": 1
+      },
+      {
+        "key": "knob",
+        "mesh_id": "mesh_1d81369651e747d781cadeef54ced305",
+        "mesh_revision": 1,
+        "pigment_id": "pigment_cac7af813205452499a641d3e4601faa",
+        "pigment_revision": 1
+      },
+      {
+        "key": "post",
+        "mesh_id": "mesh_deaa4a02186745d1b7642e2667b42346",
+        "mesh_revision": 1,
+        "pigment_id": "pigment_193ec3274ae9485492ed519a45115efc",
+        "pigment_revision": 1
+      },
+      {
+        "key": "shaft",
+        "mesh_id": "mesh_26ae68e5f32c43e097a6c25e7e1842e9",
+        "mesh_revision": 1,
+        "pigment_id": "pigment_507cb4f54d5440779fbb3cd67ba2fc5c",
+        "pigment_revision": 1
+      }
+    ],
+    "lens_hash": "2ccf710fe4c7551f4e4dc37cfdfdbc9a0d79a288bd84bf5ed5e5efc401f68a97",
+    "objects": {
+      "1": {
+        "key": "bracket",
+        "mesh_id": "mesh_5b64c19f7f204ca58064cfa821e44e55",
+        "pigment_id": "pigment_0769f4a2f00d457e9187b07c43069b44"
+      },
+      "2": {
+        "key": "footpad",
+        "mesh_id": "mesh_2f6a86af6a9e4787b761513125fcdd77",
+        "pigment_id": "pigment_8dc643e2039b41b08aeadcae18415bd3"
+      },
+      "3": {
+        "key": "knob",
+        "mesh_id": "mesh_1d81369651e747d781cadeef54ced305",
+        "pigment_id": "pigment_cac7af813205452499a641d3e4601faa"
+      },
+      "4": {
+        "key": "post",
+        "mesh_id": "mesh_deaa4a02186745d1b7642e2667b42346",
+        "pigment_id": "pigment_193ec3274ae9485492ed519a45115efc"
+      },
+      "5": {
+        "key": "shaft",
+        "mesh_id": "mesh_26ae68e5f32c43e097a6c25e7e1842e9",
+        "pigment_id": "pigment_507cb4f54d5440779fbb3cd67ba2fc5c"
+      }
+    },
+    "plate_id": "plate_9c62eec9275f4aab87e32466b9f747b3",
+    "renderer": "facet-raster-1",
+    "seal_hash": "f6bd7ab420951a9847c4a6e6c673cebb88acd5b14f73af7ccacd24fc0f234e3d",
+    "seal_id": "seal_d7a245597e39490d91e859e880ed302d",
+    "visual_hash": "4b05f15de628dc2130aadb9906b4af8bd57ba9c1b60ec72c0560998c7dd82454"
+  },
+  "summary": {
+    "background_pixels": 17692,
+    "covered_pixels": 7908,
+    "depth_units": "camera_forward_distance",
+    "finite_depth_range": [
+      5.6605353355407715,
+      9.043133735656738
+    ],
+    "height": 160,
+    "object_id_scope": "local_to_this_plate",
+    "objects": 5,
+    "samples": 1,
+    "width": 160
+  },
+  "trust": {
+    "external_authenticity": "Not established: an attacker can replace content and all bundle-local hashes",
+    "render_correctness": "Not established: channels are decoded and cross-checked, not independently re-rendered",
+    "review_validity": "Unknown: the ZIP contains no proof records or live quarantine state",
+    "verified": "Internal byte integrity and metadata/channel consistency only"
+  },
+  "valid": true
+}

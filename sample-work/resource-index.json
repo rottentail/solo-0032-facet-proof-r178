@@ -1,0 +1,20 @@
+{
+  "meshes": {
+    "bracket": "mesh_5b64c19f7f204ca58064cfa821e44e55",
+    "hexbase": "mesh_b237a14938e64f28a612c918ffb87a9b",
+    "knob": "mesh_1d81369651e747d781cadeef54ced305",
+    "plate": "mesh_2f6a86af6a9e4787b761513125fcdd77",
+    "post": "mesh_deaa4a02186745d1b7642e2667b42346",
+    "shaft": "mesh_26ae68e5f32c43e097a6c25e7e1842e9",
+    "sphere": "mesh_be7e32db76ba46f0bf9dfc6a416907a0"
+  },
+  "pigments": {
+    "deep_violet": "pigment_a8e2c2de86034d0fa414d92e3f0313ba",
+    "gloss_amber": "pigment_507cb4f54d5440779fbb3cd67ba2fc5c",
+    "matte_blue": "pigment_0769f4a2f00d457e9187b07c43069b44",
+    "matte_green": "pigment_8dc643e2039b41b08aeadcae18415bd3",
+    "satin_gray": "pigment_193ec3274ae9485492ed519a45115efc",
+    "satin_red": "pigment_cac7af813205452499a641d3e4601faa"
+  },
+  "spec_version": "samplekit-catalog-1"
+}

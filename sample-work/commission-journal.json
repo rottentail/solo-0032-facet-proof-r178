@@ -1,0 +1,405 @@
+{
+  "samples": {
+    "S01": {
+      "assembly_id": "assembly_5143512cff424c3d9601922e2c724c2d",
+      "assembly_revision": 2,
+      "bundle_sha256": "13944327ff2beebb81f6a97ac269472b1a514e29a8ef77dd8c8dd78b6949f0fc",
+      "exposure_id": "exposure_8418a31f864a43acbef80a5adb81c6ef",
+      "exposure_key": "sample-S01",
+      "plate_id": "plate_8929811d43434a4c8e5c0a52966910c8",
+      "reader_summary": {
+        "background_pixels": 19873,
+        "covered_pixels": 5727,
+        "depth_units": "camera_forward_distance",
+        "finite_depth_range": [
+          5.654960632324219,
+          9.03825855255127
+        ],
+        "height": 160,
+        "object_id_scope": "local_to_this_plate",
+        "objects": 5,
+        "samples": 1,
+        "width": 160
+      },
+      "request": {
+        "height": 160,
+        "samples": 1,
+        "width": 160
+      },
+      "seal_hash": "34857bae3be4d681d63a5d5b622506f83834b88146b10e15fe8566728acd0e35",
+      "seal_id": "seal_5a7c7736531446f7bc9f40cdbae77fac",
+      "spec_hash": "788c3131956f3106d7156ed765a05daa8423baccaea4dc7125cb076bb981f6be",
+      "state": "complete",
+      "statistics": {
+        "background_depth": "positive_infinity",
+        "byte_order": "little",
+        "covered_pixels": 5727,
+        "depth_units": "camera_forward_distance",
+        "fragments": 10989,
+        "triangles": 188
+      },
+      "visual_hash": "31ab39eb1dc51802180ff068a4baf7dbe80b8ed0c78f86727a6dd9a6d372a317"
+    },
+    "S02": {
+      "assembly_id": "assembly_b4521c766f6946199c5c4156361ab851",
+      "assembly_revision": 2,
+      "bundle_sha256": "6559f7511950af3966e03251efe2d0a758b14b05157cf3cbb6278fdde3669074",
+      "exposure_id": "exposure_d000992100cd4be98487d38e6129c76b",
+      "exposure_key": "sample-S02",
+      "plate_id": "plate_9c62eec9275f4aab87e32466b9f747b3",
+      "reader_summary": {
+        "background_pixels": 17692,
+        "covered_pixels": 7908,
+        "depth_units": "camera_forward_distance",
+        "finite_depth_range": [
+          5.6605353355407715,
+          9.043133735656738
+        ],
+        "height": 160,
+        "object_id_scope": "local_to_this_plate",
+        "objects": 5,
+        "samples": 1,
+        "width": 160
+      },
+      "request": {
+        "height": 160,
+        "samples": 1,
+        "width": 160
+      },
+      "seal_hash": "f6bd7ab420951a9847c4a6e6c673cebb88acd5b14f73af7ccacd24fc0f234e3d",
+      "seal_id": "seal_d7a245597e39490d91e859e880ed302d",
+      "spec_hash": "901a5b11749e93406117dc55fb282f971691a59b8913bc68b804d8f004f0bbeb",
+      "state": "complete",
+      "statistics": {
+        "background_depth": "positive_infinity",
+        "byte_order": "little",
+        "covered_pixels": 7908,
+        "depth_units": "camera_forward_distance",
+        "fragments": 15283,
+        "triangles": 188
+      },
+      "visual_hash": "4b05f15de628dc2130aadb9906b4af8bd57ba9c1b60ec72c0560998c7dd82454"
+    },
+    "S03": {
+      "assembly_id": "assembly_6c8e7949478d4c89b09f16f7856a114d",
+      "assembly_revision": 2,
+      "bundle_sha256": "cc8e4d23a3656a43e5d5a9a204b05d0452b79feae8b70ee2b6d578a72b711278",
+      "exposure_id": "exposure_b919f641d82841b18a0fc4293c93f6d4",
+      "exposure_key": "sample-S03",
+      "plate_id": "plate_2beccc6d66294e70bf95976ea911245f",
+      "reader_summary": {
+        "background_pixels": 19757,
+        "covered_pixels": 5843,
+        "depth_units": "camera_forward_distance",
+        "finite_depth_range": [
+          5.661017417907715,
+          9.022682189941406
+        ],
+        "height": 160,
+        "object_id_scope": "local_to_this_plate",
+        "objects": 5,
+        "samples": 2,
+        "width": 160
+      },
+      "request": {
+        "height": 160,
+        "samples": 2,
+        "width": 160
+      },
+      "seal_hash": "9f4dfe09a8a8d08fb4dc338bf9abc8900fd2e9cc87ec3a9f0d4c0a8d89a5a142",
+      "seal_id": "seal_bfe1f8921a90490b8d756770af781520",
+      "spec_hash": "6130701da014556c654043147fb39cab111d0b080ef63fdbf17d934c85eaa042",
+      "state": "complete",
+      "statistics": {
+        "background_depth": "positive_infinity",
+        "byte_order": "little",
+        "covered_pixels": 5843,
+        "depth_units": "camera_forward_distance",
+        "fragments": 43910,
+        "triangles": 188
+      },
+      "visual_hash": "12049deb99a158657477c84de7db31b32102ba08873aa086ef394d3bff36cdc4"
+    },
+    "S04": {
+      "assembly_id": "assembly_26a57c53bcde4243b78fc61142793870",
+      "assembly_revision": 2,
+      "bundle_sha256": "b761ddeabea70df69dfd90b6a06fe7923ffac5feb0828df4d71c9667cb18b3a9",
+      "exposure_id": "exposure_d3b9e0a0660e44909f144e5c0d2f20da",
+      "exposure_key": "sample-S04",
+      "plate_id": "plate_f6779b6ad0e042b293b38c2b8aabb3c5",
+      "reader_summary": {
+        "background_pixels": 12622,
+        "covered_pixels": 11954,
+        "depth_units": "camera_forward_distance",
+        "finite_depth_range": [
+          3.9162535667419434,
+          6.140410900115967
+        ],
+        "height": 128,
+        "object_id_scope": "local_to_this_plate",
+        "objects": 5,
+        "samples": 2,
+        "width": 192
+      },
+      "request": {
+        "height": 128,
+        "samples": 2,
+        "width": 192
+      },
+      "seal_hash": "6f5a2611306d2df4d6993f33e6cfc865bc50c36670d036dfd1db9b26370530d1",
+      "seal_id": "seal_e69334b9fdda4c949c5b1cda55a8e831",
+      "spec_hash": "909950d64e2c3ac82a9fd87be0ccc9e00a795cf0e8f4e754ec652cf5ff4c1272",
+      "state": "complete",
+      "statistics": {
+        "background_depth": "positive_infinity",
+        "byte_order": "little",
+        "covered_pixels": 11954,
+        "depth_units": "camera_forward_distance",
+        "fragments": 100031,
+        "triangles": 194
+      },
+      "visual_hash": "9fbe4f68a7e51172c12caa299bc7013b485cf3397199e46111aa6b48fa0cdafd"
+    },
+    "S05": {
+      "assembly_id": "assembly_6d5ff9e85c9d4cbd800a138baf089cd8",
+      "assembly_revision": 2,
+      "bundle_sha256": "443c5a6ed0dd612c20fb3cc76bd040a3a08b2be33de441e8b321a5db32d2f5b3",
+      "exposure_id": "exposure_4ac1793b66824dfdadaa67e2ae2ace54",
+      "exposure_key": "sample-S05",
+      "plate_id": "plate_3038fa6d26e54bce93abff5e9bdeb35e",
+      "reader_summary": {
+        "background_pixels": 23085,
+        "covered_pixels": 4563,
+        "depth_units": "camera_forward_distance",
+        "finite_depth_range": [
+          4.145114898681641,
+          5.834011554718018
+        ],
+        "height": 192,
+        "object_id_scope": "local_to_this_plate",
+        "objects": 6,
+        "samples": 1,
+        "width": 144
+      },
+      "request": {
+        "height": 192,
+        "samples": 1,
+        "width": 144
+      },
+      "seal_hash": "4478b84dab01b2705693bc0aebc062364a482e4dee73c93f9384dde0c22d0984",
+      "seal_id": "seal_4e2676f26bab44f893a56c5d1d08a8f1",
+      "spec_hash": "5451ad01bd57fb754f027821ddf5cdc888892da3a3959bf9267e5db21764bd19",
+      "state": "complete",
+      "statistics": {
+        "background_depth": "positive_infinity",
+        "byte_order": "little",
+        "covered_pixels": 4563,
+        "depth_units": "camera_forward_distance",
+        "fragments": 7296,
+        "triangles": 362
+      },
+      "visual_hash": "2e8c13c5e7724c68c47bbd4c546e852ee8ebc0b3b5a4cd2b62f3268938170fc8"
+    },
+    "S06": {
+      "assembly_id": "assembly_a943cd706b194fb9ac2ce76e60ee4567",
+      "assembly_revision": 2,
+      "bundle_sha256": "4a9a2e470201e630171eaf51fbff87045d045076020ad72c88e28c9fa9511c48",
+      "exposure_id": "exposure_707162c90892487a8f18ac7ba7e018fa",
+      "exposure_key": "sample-S06",
+      "plate_id": "plate_84aac5474f5744b68fab07f83bab5fde",
+      "reader_summary": {
+        "background_pixels": 22670,
+        "covered_pixels": 4978,
+        "depth_units": "camera_forward_distance",
+        "finite_depth_range": [
+          5.452107906341553,
+          6.6039581298828125
+        ],
+        "height": 192,
+        "object_id_scope": "local_to_this_plate",
+        "objects": 6,
+        "samples": 2,
+        "width": 144
+      },
+      "request": {
+        "height": 192,
+        "samples": 2,
+        "width": 144
+      },
+      "seal_hash": "21b244d19ffc49e95b2d968970bc84e4639fe8cfd6d7ad01aed127e99ad21a9b",
+      "seal_id": "seal_948510a8046b4955bf16c12aafecfdb4",
+      "spec_hash": "d0301c76f596793f26a23b9c063df5bbaa32254bd3a25be98b3f2e6ed7d5178b",
+      "state": "complete",
+      "statistics": {
+        "background_depth": "positive_infinity",
+        "byte_order": "little",
+        "covered_pixels": 4978,
+        "depth_units": "camera_forward_distance",
+        "fragments": 29233,
+        "triangles": 364
+      },
+      "visual_hash": "89e50401ee600870f2ce6d5c5be913613cf6ef227e09e381d51d9fb6b1243003"
+    },
+    "S07": {
+      "assembly_id": "assembly_deb3b72958864ab799fc00a12090cc3e",
+      "assembly_revision": 2,
+      "bundle_sha256": "020f8f2a4228c696e4c12c2c51e84a36fd594fc279e7dcb3f31c2ea3c8a9ce08",
+      "exposure_id": "exposure_71738a1411334fe1b86d0d1391cdd70e",
+      "exposure_key": "sample-S07",
+      "plate_id": "plate_ff3a8e5df17d43659e6fd4b9493ff728",
+      "reader_summary": {
+        "background_pixels": 27389,
+        "covered_pixels": 2611,
+        "depth_units": "camera_forward_distance",
+        "finite_depth_range": [
+          5.583530902862549,
+          8.381501197814941
+        ],
+        "height": 150,
+        "object_id_scope": "local_to_this_plate",
+        "objects": 5,
+        "samples": 1,
+        "width": 200
+      },
+      "request": {
+        "height": 150,
+        "samples": 1,
+        "width": 200
+      },
+      "seal_hash": "999b966dbd466119e43aa3c02ac4367d6e9a1ed4dc4f0c0269b5bbb8c49b0125",
+      "seal_id": "seal_9c4c0d9040c64c759ed2ecbec2e76ad7",
+      "spec_hash": "2646857af4dca741447aee8f8485d3948f9138e9428fe17f0eb2d7f900b8f2b0",
+      "state": "complete",
+      "statistics": {
+        "background_depth": "positive_infinity",
+        "byte_order": "little",
+        "covered_pixels": 2611,
+        "depth_units": "camera_forward_distance",
+        "fragments": 5263,
+        "triangles": 302
+      },
+      "visual_hash": "47ec786bbbe3f1688d1cbbfb6d423ccdf05b83e4ab90191facf1d539fda3f2f8"
+    },
+    "S08": {
+      "assembly_id": "assembly_cf3cda8bcdd040108eddd24285a84073",
+      "assembly_revision": 2,
+      "bundle_sha256": "5aac7798fcfd3d4f72becdad5e38d8049298dec2981bcd760c9227a6393a460c",
+      "exposure_id": "exposure_7a4cf324571146339e1d078dc5a74471",
+      "exposure_key": "sample-S08",
+      "plate_id": "plate_1d7f6da1471f4d12af3e0f5c436a05fc",
+      "reader_summary": {
+        "background_pixels": 27300,
+        "covered_pixels": 2700,
+        "depth_units": "camera_forward_distance",
+        "finite_depth_range": [
+          5.583916187286377,
+          8.366118431091309
+        ],
+        "height": 150,
+        "object_id_scope": "local_to_this_plate",
+        "objects": 5,
+        "samples": 2,
+        "width": 200
+      },
+      "request": {
+        "height": 150,
+        "samples": 2,
+        "width": 200
+      },
+      "seal_hash": "0307a03261178930d9d4f4a186d1802675aa6a266b167a136af9769fa621a1fc",
+      "seal_id": "seal_23b60a87e0d649f1a5ac26d14f59bf7e",
+      "spec_hash": "ede66a38268a636edd6a8284eb48932a8ffb7ee99f89d8f822350e0a274a44fb",
+      "state": "complete",
+      "statistics": {
+        "background_depth": "positive_infinity",
+        "byte_order": "little",
+        "covered_pixels": 2700,
+        "depth_units": "camera_forward_distance",
+        "fragments": 21084,
+        "triangles": 302
+      },
+      "visual_hash": "b501ee234cc44bacd63f447ddea4ca6342309248ddf000e17ff619bed81cdc54"
+    },
+    "S09": {
+      "assembly_id": "assembly_9d266c90845e45839e4b4e72e03579c9",
+      "assembly_revision": 2,
+      "bundle_sha256": "105db3c77f6596d44206356d0034d8b8dc92803dc9c57c602fd9fbfddbdb5a3a",
+      "exposure_id": "exposure_c84a82362f5e4168bdc8e4f51d67683c",
+      "exposure_key": "sample-S09",
+      "plate_id": "plate_445746d0c5164c91a1c8160335df3f8b",
+      "reader_summary": {
+        "background_pixels": 21356,
+        "covered_pixels": 9620,
+        "depth_units": "camera_forward_distance",
+        "finite_depth_range": [
+          4.546934127807617,
+          8.179292678833008
+        ],
+        "height": 176,
+        "object_id_scope": "local_to_this_plate",
+        "objects": 6,
+        "samples": 1,
+        "width": 176
+      },
+      "request": {
+        "height": 176,
+        "samples": 1,
+        "width": 176
+      },
+      "seal_hash": "f82dd2b868a06c0276d754c416a240c4abd24fb48fa43d6cd2142bdebf64ac32",
+      "seal_id": "seal_9e1a63d247bc41e4b2a110911c873adc",
+      "spec_hash": "ab897e03690cfa20c8e0b4c5edc42f52ee8547026f2b5b86daeb17caa96b9c6d",
+      "state": "complete",
+      "statistics": {
+        "background_depth": "positive_infinity",
+        "byte_order": "little",
+        "covered_pixels": 9620,
+        "depth_units": "camera_forward_distance",
+        "fragments": 19977,
+        "triangles": 216
+      },
+      "visual_hash": "3542255bae54904d9242c5b1bcd8c34ef378bb458a86516fa3bec297a0148e6e"
+    },
+    "S10": {
+      "assembly_id": "assembly_f65e12be08cf45808c75eaea4f75e127",
+      "assembly_revision": 2,
+      "bundle_sha256": "e7de62c1e9e9ec65b9fcde5cf60da67260013abc3f101f57a4365f7fded623a5",
+      "exposure_id": "exposure_ae237bcd7a004667b805a537893f8705",
+      "exposure_key": "sample-S10",
+      "plate_id": "plate_ef4553591afc400897f0dfa3373bdf56",
+      "reader_summary": {
+        "background_pixels": 21129,
+        "covered_pixels": 9847,
+        "depth_units": "camera_forward_distance",
+        "finite_depth_range": [
+          4.544818878173828,
+          8.182973861694336
+        ],
+        "height": 176,
+        "object_id_scope": "local_to_this_plate",
+        "objects": 6,
+        "samples": 2,
+        "width": 176
+      },
+      "request": {
+        "height": 176,
+        "samples": 2,
+        "width": 176
+      },
+      "seal_hash": "71e7524720a350106a7b03ed829e0269fd6c6dce4f7b8552769a634257e08450",
+      "seal_id": "seal_150ca127f76f4576a6a8822b5a9cc2e3",
+      "spec_hash": "57075ac06bfca9b11f9ce806a508b516569f45c3b6f7c72fdfd0913a6edcc72f",
+      "state": "complete",
+      "statistics": {
+        "background_depth": "positive_infinity",
+        "byte_order": "little",
+        "covered_pixels": 9847,
+        "depth_units": "camera_forward_distance",
+        "fragments": 79940,
+        "triangles": 216
+      },
+      "visual_hash": "0fc989bd28c114a641b061f37db019b11d338cf5ac8909d84ee5ef534b3b616b"
+    }
+  },
+  "spec_version": "samplekit-catalog-1"
+}

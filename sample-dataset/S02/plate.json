@@ -1,0 +1,82 @@
+{
+  "created": 1794840568.3401225,
+  "exposure_id": "exposure_d000992100cd4be98487d38e6129c76b",
+  "id": "plate_9c62eec9275f4aab87e32466b9f747b3",
+  "payload": {
+    "format": "facet-plate-1",
+    "height": 160,
+    "lens_hash": "2ccf710fe4c7551f4e4dc37cfdfdbc9a0d79a288bd84bf5ed5e5efc401f68a97",
+    "objects": {
+      "1": {
+        "key": "bracket",
+        "mesh_id": "mesh_5b64c19f7f204ca58064cfa821e44e55",
+        "pigment_id": "pigment_0769f4a2f00d457e9187b07c43069b44"
+      },
+      "2": {
+        "key": "footpad",
+        "mesh_id": "mesh_2f6a86af6a9e4787b761513125fcdd77",
+        "pigment_id": "pigment_8dc643e2039b41b08aeadcae18415bd3"
+      },
+      "3": {
+        "key": "knob",
+        "mesh_id": "mesh_1d81369651e747d781cadeef54ced305",
+        "pigment_id": "pigment_cac7af813205452499a641d3e4601faa"
+      },
+      "4": {
+        "key": "post",
+        "mesh_id": "mesh_deaa4a02186745d1b7642e2667b42346",
+        "pigment_id": "pigment_193ec3274ae9485492ed519a45115efc"
+      },
+      "5": {
+        "key": "shaft",
+        "mesh_id": "mesh_26ae68e5f32c43e097a6c25e7e1842e9",
+        "pigment_id": "pigment_507cb4f54d5440779fbb3cd67ba2fc5c"
+      }
+    },
+    "passes": {
+      "color.png": {
+        "sha256": "c58b30d18b6d67594b5d9402854eeec60dd61f22bbe63712c39ae03dd5365bb6",
+        "size": 1458
+      },
+      "color.rgb": {
+        "sha256": "f22fcefb6893181521507dc7bc8bf9bf26bf1953050c223ac60277ca632dec5e",
+        "size": 76800
+      },
+      "depth.f32": {
+        "sha256": "668fde67ca59bb201cb0b300a091eafa559b3dc8adb854a08bb70d0d03d48ec4",
+        "size": 102400
+      },
+      "depth.png": {
+        "sha256": "a8e3f254b7a47c31f648d2bd37259589a4f6539775f9c73de769133a39e31e51",
+        "size": 1465
+      },
+      "object.png": {
+        "sha256": "cd3105c64cc7218275f906dfc841685de1358057b2239924eb2823501c0d992f",
+        "size": 916
+      },
+      "object.u32": {
+        "sha256": "2303239ef563ab56b8e5adcf65a0a39c92120bb4caf82653fdb2ec8c71294ff6",
+        "size": 102400
+      }
+    },
+    "request": {
+      "height": 160,
+      "renderer": "facet-raster-1",
+      "samples": 1,
+      "width": 160
+    },
+    "seal_hash": "f6bd7ab420951a9847c4a6e6c673cebb88acd5b14f73af7ccacd24fc0f234e3d",
+    "seal_id": "seal_d7a245597e39490d91e859e880ed302d",
+    "statistics": {
+      "background_depth": "positive_infinity",
+      "byte_order": "little",
+      "covered_pixels": 7908,
+      "depth_units": "camera_forward_distance",
+      "fragments": 15283,
+      "triangles": 188
+    },
+    "visual_hash": "4b05f15de628dc2130aadb9906b4af8bd57ba9c1b60ec72c0560998c7dd82454",
+    "width": 160
+  },
+  "state": "ready"
+}
